@@ -1,0 +1,127 @@
+List of Programs on OOPS with C++
+1. Write a program to calculate GCD of two numbers with recursion and without recursion.
+
+2. Write a program to find Largest of Three Numbers.
+
+3. Write a program to Check Palindrome Number.
+
+4. Write a program to find Product of Digits in a Number.
+
+5. Write a program to find Prime Factors of a Number.
+
+6. Write a program to Reverse a Number.
+
+7. Write a program to find Sum of Digits in a Number.
+
+8. Write a program to find Sum of n Even and Odd.
+
+9. Write a program to find Sum of First and Last Digit of a Number.
+
+10.Write a program to find Find Sum of Series 1²+2²+3²+n².
+
+11.Write a program to find Sum of Series 1³+2³+3³+n³.
+
+12.Write a program to Swap First and Last Digit in a Number.
+
+13.Write a program to remove the duplicates from an array.
+
+14.Write a program that prints a table indicating the number of occurrences of each alphabet in the text
+entered as command line arguments.
+
+15.Write a menu driven program to perform string manipulation (without using inbuilt string functions):
+a. Show address of each character in string
+b. Concatenate two strings.
+c. Compare two strings
+d. Calculate length of the string (use pointers)
+e. Convert all lowercase characters to uppercase
+f. Reverse the string
+
+16.Insert a string in another string at a user specified position
+
+17.Write a program to merge two ordered arrays to get a single ordered array.
+
+18.Write a program to search a given element in a set of N numbers using Binary Search with recursion
+and without recursion.
+
+19.Write a program to Check two Matrixes are Equal.
+
+20.Write a program to find Determinant of a Matrix.
+
+21.Write a program to Check Identity Matrix.
+
+22.Write a program to Check Sparse Matrix.
+
+23.Write a program to find the Sum of Opposite Diagonal of a Matrix.
+
+24.Write a program to the Sum of Matrix Diagonal.
+
+25.Write a program to find the Sum of Matrix Row and Column.
+
+26.Create a Matrix class. Write a menu-driven program to perform following Matrix operations
+(exceptions should be thrown by the functions if matrices passed to them are incompatible and
+handled by the main() function):
+a. Sum
+b. Product
+c. Transpose
+
+27.Define a class Person having name as a data member. Inherit two classes Student and Employee from
+Person. Student has additional attributes as course, marks and year and Employee has department
+and salary. Write display() method in all the three classes to display the corresponding attributes.
+Provide the necessary methods to show runtime polymorphism.
+
+28.Create a Triangle class. Add exception handling statements to ensure the following conditions: all
+sides are greater than 0 and sum of any two sides is greater than the third side. The class should also
+have overloaded functions for calculating the area of a right angled triangle as well as using Heron's
+formula to calculate the area of any type of triangle.
+
+29.Create a class Student containing fields for Roll No., Name, Class, Year and Total Marks. Write a
+program to store 5 objects of Student class in a file. Retrieve these records from the file and display
+them.
+
+30.Copy the contents of one text file to another file, after removing all whitespaces.
+
+31.Write a program in C++ to implement database of persons having different profession e,g. engineer,
+doctor, student, laborer etc. using the concept of multiple inheritance. The objective of this
+assignment is to learn the concepts of inheritance.
+
+32.Write a program in C++ to sort the numbers in an array using separate functions for read, display,
+sort and swap. The objective of this assignment is to learn the concepts of input, output, functions,
+call by reference in C++.
+
+33.Write a program in C++ to perform following operations on complex numbers Add, Subtract,
+Multiply, Divide, Complex conjugate. Design the class for complex number representation and the
+operations to be performed. The objective of this assignment is to learn the concepts classes and
+objects
+
+34.Write a program in C++ to perform following operations on complex numbers Add, Subtract,
+Multiply, Divide. Use operator overloading for these operations. The objective of this assignment is
+to learn the concepts operator overloading.
+
+35.Write a program to perform the deletion of white spaces such as horizontal tab, vertical tab, space,
+line feed, new line and carriage return from a text file and store the contents of the file without
+whitespaces on another file.
+
+36.Write a program to read the class object of student info such as name, age ,sex ,height and weight
+from the keyboard and to store them on a specified file using read() and write() functions. Again
+thesame file is opened for reading and displaying the contents of the file on the screen.
+
+37.Create a base class basic info with data members name ,roll no, sex and two member functions
+getdata and display. Derive a class physical fit from basic info which has data members height and
+weight and member functions getdata and display. Display all the information using object of derived
+class.
+
+38.Design three classes STUDENT, EXAM and RESULT. The STUDENT class has data members such as
+rollno, name. Create a class EXAM by inheriting the STUDENT class. The EXAM class adds data
+members representing the marks scored in six subjects. Derive the RESULT from the EXAM class and
+has its own data members such as total marks. Write a program to model this relationship.
+
+39.Write a function power to raise a number m to power n. The function takes a double value for m and
+int value for Use default value for n to make the function to calculate squares when this argument is
+omitted.
+
+40.Create a class TIME with members hours, minutes, seconds. Take input, add two time objects passing
+objects to function and display result.
+
+41.Create a class Student which has data members as name, branch, roll no, age, sex, marks in five
+subjects. Display the name of the student and his percentage that has more than 70%.Use array of
+objects.
